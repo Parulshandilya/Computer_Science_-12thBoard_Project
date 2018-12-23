@@ -11,17 +11,17 @@ This project is an elementary program computed in C++ language for mobile shop m
 <dos>                 for delay function
 <graphics>         for text colour and text background
 ## Menu Options
-1. Generate bill<br\>
-2. Add stock <\br>
-3. Search stock <\br>
-4. Delete a stock <\br>
-5. Modify a stock <\br>
-6. Display all stock <\br>
-7. Exit <\br>
+1. Generate bill <br/>
+2. Add stock <br/>
+3. Search stock <br/>
+4. Delete a stock <br/>
+5. Modify a stock <br/>
+6. Display all stock <br/>
+7. Exit <br/>
 ## Functionalities  
-show_particular_stock() <\br>
-search_stock() <\br>
-delete_stock() <\br>
-modify_stock() <\br>
-show_all_stock() <\br>
-add_stock() <\br>
+show_particular_stock() <br/>
+search_stock() <br/>
+delete_stock() <br/>
+modify_stock() <br/>
+show_all_stock() <br/>
+add_stock() <br/>
