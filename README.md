@@ -11,7 +11,7 @@ This project is an elementary program computed in C++ language for mobile shop m
 <dos>                 for delay function
 <graphics>         for text colour and text background
 ## Menu Options
-1. Generate bill<\br>
+1. Generate bill<br\>
 2. Add stock <\br>
 3. Search stock <\br>
 4. Delete a stock <\br>
