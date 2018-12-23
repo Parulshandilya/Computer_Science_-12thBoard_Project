@@ -18,3 +18,10 @@ This project is an elementary program computed in C++ language for mobile shop m
 5. Modify a stock <\br>
 6. Display all stock <\br>
 7. Exit <\br>
+## Functionalities  
+show_particular_stock() <\br>
+search_stock()<\br>
+delete_stock()<\br>
+modify_stock()<\br>
+show_all_stock()<\br>
+add_stock()<\br>
