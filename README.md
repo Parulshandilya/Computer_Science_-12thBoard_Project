@@ -26,6 +26,27 @@ delete_stock() <br/>
 modify_stock() <br/>
 show_all_stock() <br/>
 add_stock() <br/>
+
+
+##### First Page
+
+<p align="center">
+    <img src="https://github.com/Parulshandilya/Computer_Science_12thBoard_Project/blob/master/Screenshots/firstPage.JPG" width="500" title="hover text">
+  </p>
+  
+   ##### Second Page
+
+<p align="center">
+    <img src="https://github.com/Parulshandilya/Computer_Science_12thBoard_Project/blob/master/Screenshots/secondPage.JPG" width="500" title="hover text">
+  </p>
+
+  
+##### Main Menu
+
+<p align="center">
+    <img src="https://github.com/Parulshandilya/Computer_Science_12thBoard_Project/blob/master/Screenshots/mainMenu.JPG" width="500" title="hover text">
+  </p>
+
   
 ##### Add Stock
 
@@ -38,26 +59,22 @@ add_stock() <br/>
 <p align="center">
     <img src="https://github.com/Parulshandilya/Computer_Science_12thBoard_Project/blob/master/Screenshots/deleteStock.JPG" width="500" title="hover text">
   </p>
+
 ##### Display Stock
 
 <p align="center">
     <img src="https://github.com/Parulshandilya/Computer_Science_12thBoard_Project/blob/master/Screenshots/displayStock.JPG" width="500" title="hover text">
   </p>
-##### First Page
 
-<p align="center">
-    <img src="https://github.com/Parulshandilya/Computer_Science_12thBoard_Project/blob/master/Screenshots/firstPage.JPG" width="500" title="hover text">
-  </p>
+
+
 ##### Invoice
 
 <p align="center">
     <img src="https://github.com/Parulshandilya/Computer_Science_12thBoard_Project/blob/master/Screenshots/invoice.JPG" width="500" title="hover text">
   </p>
-##### Main Menu
 
-<p align="center">
-    <img src="https://github.com/Parulshandilya/Computer_Science_12thBoard_Project/blob/master/Screenshots/mainMenu.JPG" width="500" title="hover text">
-  </p>
+
 ##### Modify Stock
 
 <p align="center">
@@ -85,8 +102,4 @@ add_stock() <br/>
 <p align="center">
     <img src="https://github.com/Parulshandilya/Computer_Science_12thBoard_Project/blob/master/Screenshots/searchStock2.JPG" width="500" title="hover text">
   </p>
-  ##### Second Page
-
-<p align="center">
-    <img src="https://github.com/Parulshandilya/Computer_Science_12thBoard_Project/blob/master/Screenshots/secondPage.JPG" width="500" title="hover text">
-  </p>
+ 
