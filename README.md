@@ -2,14 +2,14 @@
 ## INTRODUCTION
 This project is an elementary program computed in C++ language for mobile shop management.This project has covered all infrastructure of the basic shop management program. It will allow user to enter data edit them and delete them.
 ## Header Files Included
-<fstream>          for reading and writing files
-<conio>              for clrscr() and getch()
-<string>             for string characters
-<stdio>              for gets() and puts()
-<process>          for exit function
-<ctype>             for checking strings
-<dos>                 for delay function
-<graphics>         for text colour and text background
+<fstream>          for reading and writing files<br/>
+<conio>              for clrscr() and getch()<br/>
+<string>             for string characters<br/>
+<stdio>              for gets() and puts()<br/>
+<process>          for exit function<br/>
+<ctype>             for checking strings<br/>
+<dos>                 for delay function<br/>
+<graphics>         for text colour and text background<br/>
 
 ## Menu Options
 1. Generate bill <br/>
