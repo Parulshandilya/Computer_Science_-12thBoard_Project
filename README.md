@@ -27,8 +27,66 @@ modify_stock() <br/>
 show_all_stock() <br/>
 add_stock() <br/>
   
-##### TV Series DataBase
+##### Add Stock
 
 <p align="center">
     <img src="https://github.com/Parulshandilya/Computer_Science_12thBoard_Project/blob/master/Screenshots/addStock.JPG" width="500" title="hover text">
+  </p>
+
+##### Delete Stock
+
+<p align="center">
+    <img src="https://github.com/Parulshandilya/Computer_Science_12thBoard_Project/blob/master/Screenshots/deleteStock.JPG" width="500" title="hover text">
+  </p>
+##### Display Stock
+
+<p align="center">
+    <img src="https://github.com/Parulshandilya/Computer_Science_12thBoard_Project/blob/master/Screenshots/displayStock.JPG" width="500" title="hover text">
+  </p>
+##### First Page
+
+<p align="center">
+    <img src="https://github.com/Parulshandilya/Computer_Science_12thBoard_Project/blob/master/Screenshots/firstPage.JPG" width="500" title="hover text">
+  </p>
+##### Invoice
+
+<p align="center">
+    <img src="https://github.com/Parulshandilya/Computer_Science_12thBoard_Project/blob/master/Screenshots/invoice.JPG" width="500" title="hover text">
+  </p>
+##### Main Menu
+
+<p align="center">
+    <img src="https://github.com/Parulshandilya/Computer_Science_12thBoard_Project/blob/master/Screenshots/mainMenu.JPG" width="500" title="hover text">
+  </p>
+##### Modify Stock
+
+<p align="center">
+    <img src="https://github.com/Parulshandilya/Computer_Science_12thBoard_Project/blob/master/Screenshots/modifyStock.JPG" width="500" title="hover text">
+  </p>
+
+<p align="center">
+    <img src="https://github.com/Parulshandilya/Computer_Science_12thBoard_Project/blob/master/Screenshots/modifyStock1.JPG" width="500" title="hover text">
+  </p>
+
+<p align="center">
+    <img src="https://github.com/Parulshandilya/Computer_Science_12thBoard_Project/blob/master/Screenshots/modifyStock2.png" width="500" title="hover text">
+  </p>
+  
+  ##### Search Stock
+
+<p align="center">
+    <img src="https://github.com/Parulshandilya/Computer_Science_12thBoard_Project/blob/master/Screenshots/searchStock.JPG" width="500" title="hover text">
+  </p>
+
+<p align="center">
+    <img src="https://github.com/Parulshandilya/Computer_Science_12thBoard_Project/blob/master/Screenshots/searchStock1.JPG" width="500" title="hover text">
+  </p>
+
+<p align="center">
+    <img src="https://github.com/Parulshandilya/Computer_Science_12thBoard_Project/blob/master/Screenshots/searchStock2.JPG" width="500" title="hover text">
+  </p>
+  ##### Second Page
+
+<p align="center">
+    <img src="https://github.com/Parulshandilya/Computer_Science_12thBoard_Project/blob/master/Screenshots/secondPage.JPG" width="500" title="hover text">
   </p>
