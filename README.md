@@ -10,6 +10,7 @@ This project is an elementary program computed in C++ language for mobile shop m
 <ctype>             for checking strings
 <dos>                 for delay function
 <graphics>         for text colour and text background
+
 ## Menu Options
 1. Generate bill <br/>
 2. Add stock <br/>
@@ -25,3 +26,9 @@ delete_stock() <br/>
 modify_stock() <br/>
 show_all_stock() <br/>
 add_stock() <br/>
+  
+##### TV Series DataBase
+
+<p align="center">
+    <img src="https://github.com/Parulshandilya/Computer_Science_12thBoard_Project/blob/master/Screenshots/addStock.JPG" width="500" title="hover text">
+  </p>
