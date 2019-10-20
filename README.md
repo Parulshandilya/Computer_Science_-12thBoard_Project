@@ -1,7 +1,7 @@
 # C++ OOPs Based Project
 ## INTRODUCTION
 This project is an elementary program computed in C++ language for mobile shop management.This project has covered all infrastructure of the basic shop management program. It will allow user to enter data edit them and delete them. 
-IDE: Turbo C++
+IDE: Turbo C++.
 ## Header Files Included
 <fstream>          for reading and writing files<br/>
 <conio>              for clrscr() and getch()<br/>
@@ -29,7 +29,7 @@ show_all_stock() <br/>
 add_stock() <br/>
 
 
-##### First Page
+##### First Page:
 
 <p align="center">
     <img src="https://github.com/Parulshandilya/Computer_Science_12thBoard_Project/blob/master/Screenshots/firstPage.JPG" width="500" title="hover text">
